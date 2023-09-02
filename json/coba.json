@@ -1,0 +1,39 @@
+[
+    { 
+        "nama" : "Randi Afif",
+        "umur" : 20,
+        "NIM" : "101210072",
+        "lulus" : true,
+        "hobby" : [
+            "membaca", 
+            "berenang", 
+            "makan"
+        ],
+        "alamat" : "Sragi, Pekalongan",
+        "pembimbing" : {
+            "pembimbing1" : "Pak Budi",
+            "pembimbing2" : "Pak Agus",
+            "pembimbing3" : "Pak Husni"
+
+        }
+    },
+    { 
+        "nama" : "Randi Afif",
+        "umur" : 20,
+        "NIM" : "101210072",
+        "lulus" : true,
+        "hobby" : [
+            "membaca", 
+            "berenang", 
+            "makan"
+        ],
+        "alamat" : "Sragi, Pekalongan",
+        "pembimbing" : {
+            "pembimbing1" : "Pak Budi",
+            "pembimbing2" : "Pak Agus",
+            "pembimbing3" : "Pak Husni"
+
+        }
+    }
+
+]

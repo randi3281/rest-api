@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "nama_makanan" : "Nasi Goreng",
+            "harga" : 10000,
+            "gambar" : "nasgor.jpg"
+        },
+        {
+            "nama_makanan" : "Mie Goreng",
+            "harga" : 8000,
+            "gambar" : "miegor.jpg"
+        },
+        {
+            "nama_makanan" : "Ayam Goreng",
+            "harga" : 12000,
+            "gambar" : "ayamgor.jpg"
+        },
+        {
+            "nama_makanan" : "Ayam Bakar",
+            "harga" : 15000,
+            "gambar" : "ayambakar.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Uduk",
+            "harga" : 8000,
+            "gambar" : "nasuduk.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Kuning",
+            "harga" : 10000,
+            "gambar" : "naskun.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Kebuli",
+            "harga" : 15000,
+            "gambar" : "naskeb.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Kucing",
+            "harga" : 5000,
+            "gambar" : "naskuc.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Pecel",
+            "harga" : 8000,
+            "gambar" : "naspec.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Rames",
+            "harga" : 10000,
+            "gambar" : "nasram.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Padang",
+            "harga" : 15000,
+            "gambar" : "naspad.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Campur",
+            "harga" : 10000,
+            "gambar" : "nascam.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Liwet",
+            "harga" : 15000,
+            "gambar" : "nasliw.jpg"
+        },
+        {
+            "nama_makanan" : "Nasi Gudeg",
+            "harga" : 15000,
+            "gambar" : "nasgud.jpg"
+        }
+    ]
+}
